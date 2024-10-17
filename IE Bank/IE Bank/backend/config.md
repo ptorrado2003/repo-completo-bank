@@ -1,0 +1,3 @@
+JWT = eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJpYXQiOjE3MjkxMjQwMzIsImlkIjoiODk5ZGI3NGItNTk0NC00MzkxLWJhMDAtZmFlZGZmNmVlMzFlIn0.k1ju3eiWlZwW1AOR-gaLl-rBsafMZ1Z_D9AbhG-iiWrKpyppIj5tjJubbS_THXb1OaAuOM8iynSNYdBOAmhGBQ
+
+URL = libsql://ie-bank-irikune.turso.io
