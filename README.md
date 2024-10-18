@@ -85,11 +85,11 @@ The system must have an infrastructure architecture design that describes the in
 The system must be built using Azure Functions, which provides a highly available and scalable platform.
 # GUI Mockups
 
-![App Screenshot](https://ibb.co/51z1MvV)
+![App Screenshot](https://github.com/ptorrado2003/repo-completo-bank/blob/main/IE%20Bank/IE%20Bank/Screen%20Shot%202024-10-18%20at%2012.08.12%20PM.png)
 
-![App Screenshot](https://ibb.co/G5xG9qC)
+![App Screenshot](https://github.com/ptorrado2003/repo-completo-bank/blob/main/IE%20Bank/IE%20Bank/Screen%20Shot%202024-10-18%20at%2012.31.55%20PM.png)
 
-![App Screenshot](https://ibb.co/r0kYDzN)
+![App Screenshot](https://github.com/ptorrado2003/repo-completo-bank/blob/main/IE%20Bank/IE%20Bank/Screen%20Shot%202024-10-18%20at%2012.32.11%20PM.png)
 
 # Environments Design
 
@@ -107,12 +107,3 @@ Software Quality Assurance (SQA)
 The system must have a test plan that describes the tests necessary to ensure the quality of the system.
 The system must be built using Vue.js, Flask, SQLAlchemy, and Azure Functions.
 The system must be tested using a combination of unit tests, integration tests, and end-to-end tests.
-## Screenshots
-
-![App Screenshot](https://ibb.co/51z1MvV)
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
